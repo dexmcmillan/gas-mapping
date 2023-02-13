@@ -1,0 +1,426 @@
+Project,Country,Gt CO2,Fuel
+Upper Zakum,United Arab Emirates,6.44038252,OilGas
+Bu Hasa,United Arab Emirates,4.915778525,OilGas
+Bab,United Arab Emirates,4.197033055,OilGas
+Lower Zakum,United Arab Emirates,2.434419542,OilGas
+Umm Shaif/Nasr,United Arab Emirates,1.939252733,OilGas
+Bab (Gasco),United Arab Emirates,1.674389775,OilGas
+Asab,United Arab Emirates,1.373231334,OilGas
+Vaca Muerta Shale,Argentina,5.177782001,OilGas
+Goldwyer Shale,Australia,4.468806417,OilGas
+Gorgon LNG T1-T3,Australia,1.931000175,OilGas
+Velkerri Shale,Australia,1.058031183,OilGas
+ACG (Azeri-Chirag-Guneshli Deep Water),Azerbaijan,1.660265695,OilGas
+Central Arabian Offshore,Bahrain,1.411444785,OilGas
+Santos Offshore,Brazil,4.339841028,OilGas
+Llandovery Shale,Brazil,4.273465065,OilGas
+Buzios (x-Franco),Brazil,3.638233141,OilGas
+Irati Shale,Brazil,2.695278585,OilGas
+Lula (X-Tupi),Brazil,2.545775174,OilGas
+Parnaiba Onshore,Brazil,1.998572969,OilGas
+Libra,Brazil,1.891731555,OilGas
+Candeias Shale,Brazil,1.641797865,OilGas
+Campos Offshore,Brazil,1.560951299,OilGas
+Mero (Libra NW),Brazil,1.287024055,OilGas
+Montney Play,Canada,13.6884891,OilGas
+"Spirit River (Notikewin, Falher, Wilrich)",Canada,2.976203115,OilGas
+Horizon Oil Sands Project,Canada,1.989790706,OilGas
+Kearl,Canada,1.901181774,OilGas
+Duvernay,Canada,1.871369296,OilGas
+Athabasca Oil Sands Project,Canada,1.355853264,OilGas
+Christina Lake,Canada,1.232128944,OilGas
+Liard Shale,Canada,1.201818384,OilGas
+Syncrude Mildred Lake/Aurora,Canada,1.184050044,OilGas
+Longmaxi Shale,China,5.691701535,OilGas
+Changqing,China,4.939920283,OilGas
+Daqing,China,2.601815792,OilGas
+Cambrian/Silurian Marine Shale,China,2.367530441,OilGas
+Longmaxi Shale (Sichuan/Changyu),China,2.20989992,OilGas
+Tarim (CNPC),China,1.959883851,OilGas
+Southeast Uplift Onshore Heilongjiang Province,China,1.750536451,OilGas
+Shengli,China,1.50578136,OilGas
+Oil shale China,China,1.385461449,OilGas
+Xinjiang (CNPC),China,1.356420308,OilGas
+Central Uplift Onshore Xinjiang Uygur Autonomous Region,China,1.04432647,OilGas
+La Luna Shale,Colombia,1.616788836,OilGas
+Tannezuft Shale,Algeria,2.347866837,OilGas
+Hassi R'Mel (Domestic),Algeria,2.271542343,OilGas
+Hassi Messaoud,Algeria,1.215923408,OilGas
+Bowland Shale,United Kingdom,1.476082594,OilGas
+Kronprins Christian Offshore,Denmark,2.23244534,OilGas
+Greater Turbot (Stabroek),Guyana,1.114423675,OilGas
+Greater Liza (Liza),Guyana,1.002783934,OilGas
+East Natuna (x-Natuna D-Alpha),Indonesia,2.158541118,OilGas
+Leviathan,Israel,1.060241772,OilGas
+Barail Shale,India,2.141583711,OilGas
+Rumaila North & South,Iraq,7.761609425,OilGas
+Qurna West,Iraq,3.982828932,OilGas
+Baghdad East,Iraq,2.742460925,OilGas
+Central Arabian Onshore,Iraq,2.607423632,OilGas
+Majnoon,Iraq,2.468342318,OilGas
+Zubair,Iraq,1.679304399,OilGas
+Qurna West-2,Iraq,1.598723281,OilGas
+Halfayah,Iraq,1.409043856,OilGas
+Nahr bin Umar,Iraq,1.277643431,OilGas
+Ratawi,Iraq,1.065138744,OilGas
+Basrah Gas project,Iraq,1.041154291,OilGas
+Marun,Iran,2.408543885,OilGas
+Azadegan,Iran,2.278016459,OilGas
+Ahwaz Asmari,Iran,2.238284406,OilGas
+Central Arabian Offshore,Iran,2.122142874,OilGas
+Gachsaran,Iran,1.739296877,OilGas
+Agha Jari,Iran,1.563110231,OilGas
+Ahwaz Bangestan,Iran,1.433911709,OilGas
+Pazanan,Iran,1.358409167,OilGas
+South Pars (Phases 9-10) dry gas,Iran,1.265006303,OilGas
+Kish Gas Project,Iran,1.193632598,OilGas
+Pars Southwest,Iran,1.1092643,OilGas
+South Pars (Phases 4-5) dry gas,Iran,1.100975522,OilGas
+Mansouri Bangestan,Iran,1.045838888,OilGas
+South Pars (Phases 22-24),Iran,1.04273081,OilGas
+South Pars (Phases 20-21),Iran,1.017173226,OilGas
+South Pars (Phases 2-3) dry gas,Iran,1.016274224,OilGas
+Greater Burgan,Kuwait,8.341919008,OilGas
+Project Kuwait,Kuwait,4.409493298,OilGas
+Central Arabian Onshore,Kuwait,3.597522951,OilGas
+Kashagan,Kazakhstan,5.086161261,OilGas
+Tengiz,Kazakhstan,3.357866129,OilGas
+Carboniferous Shale,Kazakhstan,1.287218515,OilGas
+Karachaganak,Kazakhstan,1.207734375,OilGas
+Sirte Shale,Libya,1.703281911,OilGas
+El Sharara,Libya,1.00784607,OilGas
+Eagle Ford Shale,Mexico,5.0680294,OilGas
+Gulf Deepwater Offshore,Mexico,2.204840846,OilGas
+Ku-Maloob-Zaap Project,Mexico,1.960224743,OilGas
+Yucatan Platform Offshore,Mexico,1.025798315,OilGas
+MZLNG Joint Development (T1-T2),Mozambique,1.310175723,OilGas
+Area-1 Future Phases,Mozambique,1.022724356,OilGas
+Area 1 LNG (T1&T2),Mozambique,1.006654597,OilGas
+NLNG Base Project,Nigeria,1.033411352,OilGas
+Troll,Norway,1.77210443,OilGas
+Johan Sverdrup,Norway,1.073871982,OilGas
+Khafji,Kuwait-Saudi-Arabia-Neutral Zone,1.439897189,OilGas
+Sembar Shale,Pakistan,2.840236853,OilGas
+Lublin Basin Silurian Shale,Poland,5.647084841,OilGas
+North Field,Qatar,11.61275076,OilGas
+North Field C LNG,Qatar,7.768105079,OilGas
+North Field E,Qatar,4.594474423,OilGas
+QatarGas LNG T8-T11 (NFE-East),Qatar,3.39497532,OilGas
+Barzan,Qatar,3.094095108,OilGas
+Central Arabian Onshore,Qatar,2.217231619,OilGas
+Qatargas 2 LNG T4-T5,Qatar,1.828035431,OilGas
+QatarGas LNG T12-T13 (NFE-South),Qatar,1.785210581,OilGas
+Dolphin,Qatar,1.550235876,OilGas
+Rasgas 2 LNG T3-T5,Qatar,1.509806372,OilGas
+Rasgas 3 LNG T6-T7,Qatar,1.490692041,OilGas
+QatarGas 1 LNG T1-T3,Qatar,1.283272558,OilGas
+Al Khaleej Gas project,Qatar,1.135307349,OilGas
+Bovanenkovo Zone (Yamal Megaproject),Russian Federation,11.15863625,OilGas
+Gazprom dobycha Yamburg,Russian Federation,8.863793695,OilGas
+Tunguska Basin CBM,Russian Federation,8.843821834,OilGas
+Shtokman,Russian Federation,6.135874132,OilGas
+Urengoyskoye,Russian Federation,5.199312832,OilGas
+Kuznetsk Depression (Kuzbass) CBM,Russian Federation,4.90609548,OilGas
+Yuganskneftegaz,Russian Federation,4.345193315,OilGas
+Eastern Gas Program,Russian Federation,4.274058366,OilGas
+West Siberia Offshore,Russian Federation,2.856403668,OilGas
+Lensky Basin CBM,Russian Federation,2.73771576,OilGas
+Timan - Pechora Basin Offshore,Russian Federation,2.48143889,OilGas
+Tambey Zone (Yamal Megaproject),Russian Federation,2.474909236,OilGas
+Timan - Pechora Basin Onshore,Russian Federation,2.351649692,OilGas
+Samotlorneftegaz (TNK-BP),Russian Federation,1.867807241,OilGas
+Leningradskoye (Kara Sea),Russian Federation,1.800619883,OilGas
+Gazprom dobycha Orenburg,Russian Federation,1.593313222,OilGas
+Arctic LNG 2 T1-3,Russian Federation,1.475579089,OilGas
+Volga - Urals Onshore,Russian Federation,1.36763708,OilGas
+Romashkino,Russian Federation,1.338604935,OilGas
+Rusanovskoye (Kara Sea),Russian Federation,1.316123949,OilGas
+Gazprom dobycha Nadym,Russian Federation,1.286567712,OilGas
+Taymyr Basin CBM,Russian Federation,1.233321785,OilGas
+North Kara Sea Offshore,Russian Federation,1.176960094,OilGas
+West Siberia Onshore,Russian Federation,1.1645132,OilGas
+SeverEnergia Project,Russian Federation,1.099534929,OilGas
+Ghawar Uthmaniyah,Saudi-Arabia,19.22190525,OilGas
+Safaniya,Saudi-Arabia,11.92614355,OilGas
+Khurais project,Saudi-Arabia,7.634938272,OilGas
+Ghawar Haradh,Saudi-Arabia,6.966827829,OilGas
+Central Arabian Offshore,Saudi-Arabia,6.860051661,OilGas
+Ghawar Shedgum,Saudi-Arabia,5.695002943,OilGas
+Qatif project,Saudi-Arabia,5.066814884,OilGas
+Manifa (redevelop),Saudi-Arabia,5.000284718,OilGas
+Ghawar Hawiyah,Saudi-Arabia,4.649714459,OilGas
+Central Arabian Onshore,Saudi-Arabia,4.359973713,OilGas
+Shaybah,Saudi-Arabia,4.268589672,OilGas
+Berri,Saudi-Arabia,3.557107777,OilGas
+Zuluf (CR in field),Saudi-Arabia,3.535052229,OilGas
+Zuluf,Saudi-Arabia,2.449978206,OilGas
+Khursaniyah,Saudi-Arabia,2.413255558,OilGas
+Ghawar Ain Dar N,Saudi-Arabia,2.088574939,OilGas
+Marjan,Saudi-Arabia,1.889926075,OilGas
+Safaniya YTF Concession,Saudi-Arabia,1.842871867,OilGas
+Zuluf (expansion),Saudi-Arabia,1.833213347,OilGas
+Abqaiq,Saudi-Arabia,1.59282777,OilGas
+Ghawar Ain Dar S,Saudi-Arabia,1.43464453,OilGas
+Sudair Shale,Saudi-Arabia,1.032893123,OilGas
+Harmaliyah,Saudi-Arabia,1.028095523,OilGas
+Tanf Shale,Syria,1.363655326,OilGas
+Yolotan (Iolotan) South,Turkmenistan,9.548227901,OilGas
+Yashlar Vostochnyy (East),Turkmenistan,2.129145331,OilGas
+Dovletabad-Donmez,Turkmenistan,1.578094288,OilGas
+Tanzanian Coastal Offshore,Tanzania,1.031198167,OilGas
+Menilite Shale,Ukraine,1.666673391,OilGas
+Permian Delaware Tight,United States,27.80443109,OilGas
+Marcellus Shale,United States,26.71441286,OilGas
+Permian Midland Tight,United States,16.62881821,OilGas
+Haynesville/Bossier Shale,United States,13.20413118,OilGas
+Utica Shale,United States,7.713186851,OilGas
+Bakken Shale,United States,5.948592838,OilGas
+Eagle Ford Shale,United States,5.924247947,OilGas
+DJ Basin Tight Oil,United States,5.852116216,OilGas
+Western Gulf Province_Texas,United States,5.061653121,OilGas
+Woodford Shale,United States,3.377142985,OilGas
+PRB Tight Oil,United States,2.770946453,OilGas
+Chukchi Sea Offshore,United States,2.539277487,OilGas
+Meramec Shale,United States,2.439577611,OilGas
+Permian Conventional_Texas,United States,2.061829878,OilGas
+North Slope Onshore,United States,2.035951159,OilGas
+Anadarko Shelf_Oklahoma,United States,1.817826072,OilGas
+Baltimore Canyon Offshore,United States,1.648511699,OilGas
+Austin Chalk Tight,United States,1.392828065,OilGas
+Barnett Shale,United States,1.360879964,OilGas
+Beaufort Sea Offshore,United States,1.254810599,OilGas
+Gulf Coast Centre Offshore,United States,1.106200913,OilGas
+West Florida Offshore,United States,1.069261489,OilGas
+Orinoco Joint Ventures,Venezuela,6.703396162,OilGas
+La Luna Shale,Venezuela,1.090522015,OilGas
+Collingham Shale,South Africa,1.849888206,OilGas
+Ensham Coal Mine,Australia,1.31499396,Coal
+Hunter Valley North Coal Mine,Australia,1.734018,Coal
+Byerwen Coal Mine,Australia,1.8407268,Coal
+Mount Pleasant Coal Mine,Australia,1.12027212,Coal
+Hunter Valley South Coal Mine,Australia,1.1737968,Coal
+Peak Downs Coal Mine,Australia,2.31824868,Coal
+Blackwater Coal Mine,Australia,1.000395,Coal
+Goonyella-Riverside Coal Mine,Australia,2.18219496,Coal
+Loy Yang Coal Mine,Australia,3.0513672,Coal
+Yallourn,Australia,1.13003484,Coal
+Red Hill Coal Project,Australia,4.56446892,Coal
+Wards Well Coal Mine,Australia,2.66772,Coal
+Alpha North Coal Mine,Australia,2.542806,Coal
+Carmichael Coal Project,Australia,2.1068964,Coal
+Valeria Coal Mine,Australia,2.03280264,Coal
+Wilton and Fairhill Coal Projects,Australia,1.867404,Coal
+Galilee Coal Mine,Australia,1.81629,Coal
+Hutton Coal Mine,Australia,1.68599904,Coal
+Olive Downs Coal Mine,Australia,1.37120808,Coal
+Saraji East Coal Mine,Australia,1.33919544,Coal
+Phulbari Coal Mine,Bangladesh,1.39606896,Coal
+Project Motheo,Botswana,2.179548,Coal
+Maritsa Coal Mines,Bulgaria,2.5191824,Coal
+Fording River,Canada,1.034808588,Coal
+Murray River Coal Mine,Canada,8.4833496,Coal
+Gething Coal Mine,Canada,2.0808216,Coal
+Qingshuiying Coal Mine,China,1.82806932,Coal
+Sijiazhuang Coal Mine,China,1.559805723,Coal
+Shangyuquan Coal Mine,China,1.428774072,Coal
+Shaqu No.1 Coal Mine,China,1.38630624,Coal
+Shahaiji No.1 Coal Mine,China,1.1959332,Coal
+Gaojiabao Coal Mine,China,1.1471196,Coal
+Shajihai No.2 Coal Mine,China,1.1471196,Coal
+Yangjiacun Coal Mine,China,1.07878056,Coal
+Kouzi East Coal Mine,China,1.01906904,Coal
+Wangjialing Coal Mine,China,2.72374212,Coal
+Yili No.4 Coal Mine,China,2.58235296,Coal
+Hongqingliang Coal Mine,China,1.97763419,Coal
+Weijiamao Open Pit Mine,China,1.68650988,Coal
+Dingji Coal Mine,China,1.667325,Coal
+Wudong Coal Mine,China,1.61328948,Coal
+Lijiahao Coal Mine,China,1.47905208,Coal
+Shicaocun Coal Mine,China,1.456378163,Coal
+Qingchunta Coal Mine,China,1.423502203,Coal
+Xiaozhuang Coal Mine,China,1.41071304,Coal
+Talahao Coal Mine,China,1.297489895,Coal
+Baishihu Surface Mine,China,1.2935604,Coal
+Fengjiata Coal Mine,China,1.18617048,Coal
+Wucaiwan No.1 Surface Mine,China,1.389697968,Coal
+Gaojialiang No.1 Coal Mine,China,2.012584728,Coal
+Gaohe Coal Mine,China,1.533939,Coal
+Hongshaquan No.1 Coal Mine,China,8.97193968,Coal
+Ningxia Hongliu Coal Mine,China,2.899771908,Coal
+Guojiawan Coal Mine,China,1.87688292,Coal
+Gaotouyao Coal Mine,China,1.870537152,Coal
+Shanxi Lu'an Gucheng Coal Mine,China,1.811350662,Coal
+Hanglaiwan Coal Mine,China,1.780964196,Coal
+Xiaojiawa Coal Mine,China,1.769273339,Coal
+Wangjiata Coal Mine,China,1.61328948,Coal
+Huangling No.2 Coal Mine,China,1.36189944,Coal
+Dafosi Coal Mine,China,1.360020116,Coal
+Zaoquan Coal Mine,China,1.05925512,Coal
+Yangquan No.1 Coal Mine,China,1.210995054,Coal
+Sandaogou Coal Mine,China,2.262266292,Coal
+Guqiao Coal Mine,China,2.029181352,Coal
+Sihe Coal Mine,China,1.00522563,Coal
+Dananhu No.1 Coal Mine,China,7.16583648,Coal
+Xiaojihan Coal Mine,China,4.62142758,Coal
+Shengli East No.2 Coal Mine,China,4.5936618,Coal
+Chahasu Coal Mine,China,4.208464524,Coal
+Majialiang Coal Mine,China,3.17044332,Coal
+Yushuwan Coal Mine,China,2.82630744,Coal
+Huangyuchuan Coal Mine,China,2.261021545,Coal
+Dongzhouyao Coal Mine,China,2.152948235,Coal
+Longwanggou Coal Mine,China,1.922670077,Coal
+Tongxin Coal Mine,China,1.56861936,Coal
+Xiwan Surface Coal Mine,China,1.529598563,Coal
+Zhangjiamao Coal Mine,China,1.324312968,Coal
+Liuzhuang Coal Mine,China,1.52054364,Coal
+Menkeqing Coal Mine,China,3.685914936,Coal
+Meihuajing Coal Mine,China,3.49749444,Coal
+Shigetai Coal Mine,China,1.19330253,Coal
+Yangchangwan No.1 Well Coal Mine,China,1.0738992,Coal
+Zhangji Coal Mine,China,2.193932928,Coal
+Hulusu Coal Mine,China,3.963176184,Coal
+Baode Coal Mine,China,1.65844206,Coal
+Tashan Coal Mine,China,9.003555,Coal
+Hongqinghe Coal Mine,China,5.707042044,Coal
+Xiaobaodang No.1 Coal Mine,China,3.783542136,Coal
+Hongliulin Coal Mine,China,3.08990088,Coal
+Buliangou Coal Mine,China,1.820015076,Coal
+Huojitu Well Of Daliuta Coal Mine,China,1.13336496,Coal
+Shangwan Coal Mine,China,1.78657776,Coal
+Halagou Coal Mine,China,1.25939088,Coal
+Ningtiaota Coal Mine,China,4.0149186,Coal
+Jinjie Coal Mine,China,3.85139304,Coal
+Suancigou Coal Mine,China,2.077994952,Coal
+Daliuta Coal Mine,China,1.207160328,Coal
+Buertai Coal Mine,China,4.515258,Coal
+Pingshuo East Coal Mine,China,2.64996711,Coal
+Baiyinhua No.3 Surface Mine,China,1.5792966,Coal
+Yimin Surface Coal Mine,China,2.0336148,Coal
+Antaibao Surface Mine,China,1.19837388,Coal
+Shenhua Bulianta Coal Mine,China,2.22313896,Coal
+Anjialing Open-Pit Mine,China,1.04461104,Coal
+Shenhua Heidaigou Surface Coal Mine,China,2.72080242,Coal
+Haerwusu Surface Mine,China,2.0804889,Coal
+Shenhua Baorixile Surface Coal Mine,China,1.5660757,Coal
+Dahaize Coal Mine,China,7.993471068,Coal
+Jiangjun Gebi No.2 Coal Mine,China,7.83946416,Coal
+Balasu Coal Mine,China,6.401171436,Coal
+Baijia Haizi Coal Mine,China,4.961658372,Coal
+Xinwen Ili No.1 Coal Mine,China,4.488654588,Coal
+Shilawusu Coal Mine,China,3.884098152,Coal
+Yingpanhao Coal Mine,China,3.75986754,Coal
+Dananhu No. 7 Coal Mine,China,3.63173184,Coal
+Zhundong Surface Mine,China,3.53166396,Coal
+Qinghua No.7 Coal Mine,China,3.37546044,Coal
+Shaanxi Caojiatan Coal Mine,China,3.336897696,Coal
+Wucaiwan No.1 Coal Mine,China,3.336165492,Coal
+Hetaoyu Coal Mine,China,3.00081606,Coal
+Taran Gaole Coal Mine,China,2.928816,Coal
+Dalaihushuo Coal Mine,China,2.875609176,Coal
+Dananhu West No.2 Coal Mine,China,2.74804677,Coal
+Shitoumei No.1 Coal Mine,China,2.416834556,Coal
+Xinzhuang Coal Mine,China,2.299511069,Coal
+Inner Mongolia Erlintu Coal Mine,China,2.228926603,Coal
+Jinjitan Coal Mine,China,2.192462844,Coal
+Pangpangta Coal Mine,China,2.180771987,Coal
+Guojiatan Coal Mine,China,2.1613851,Coal
+Boli Coal Mine,China,2.0209497,Coal
+Xiaobaodang No.2 Coal Mine,China,1.934043646,Coal
+Zhaoshipan Coal Mine,China,1.933750764,Coal
+Madaotou Coal Mine,China,1.8353013,Coal
+Chagannur No.1 Coal Mine,China,1.73650512,Coal
+Muduchaideng Coal Mine,China,1.719483467,Coal
+Qiyuan Coal Mine,China,1.71387033,Coal
+Nalin River No.2 Coal Mine,China,1.674721396,Coal
+Shengli No.1 Open-Pit Coal Mine,China,1.6129498,Coal
+Yadian Coal Mine,China,1.49064531,Coal
+Taohe Coal Mine,China,1.413495415,Coal
+Sanjiao No.1 Coal Mine,China,1.384573357,Coal
+Zhong Yu Coal Mine,China,1.371608238,Coal
+Mengcun Coal Mine,China,1.363070966,Coal
+Wenjiazhuang Coal Mine,China,1.255168504,Coal
+Yuwang No.1 Coal Mine,China,1.252568876,Coal
+Baiyanghe Coal Mine,China,1.23986544,Coal
+Xinjiang Hongshan Coal Mine,China,1.204817275,Coal
+Talike District No. 2 Coal Mine,China,1.1349162,Coal
+Changcheng No.3 Coal Mine,China,1.12311012,Coal
+Wangwa Coal Mine,China,1.072190724,Coal
+Ba Leng Coal Mine,China,1.071360893,Coal
+Longwan Coal Mine,China,1.035854829,Coal
+Shanxi Dongda Coal Mine,China,1.02996696,Coal
+Hongshuliang Coal Mine,China,1.013931692,Coal
+West Well of Faer Second Coal Mine,China,1.00573044,Coal
+Pribbenow Coal Mine,Colombia,1.36922148,Coal
+El Descanso Coal Mine,Colombia,4.149156,Coal
+Cerrejón Coal Mine,Colombia,2.40895116,Coal
+San Juan Coal Mine,Colombia,1.64013696,Coal
+Garzweiler Coal Mine,Germany,1.32209,Coal
+Hambach Coal Mine,Germany,1.7054961,Coal
+West Macedonia Lignite Centre (WMLC),Greece,2.16342,Coal
+Kaniha Coal Mine,India,1.19693511,Coal
+Rajmahal Coal Mine,India,5.83210719,Coal
+Talaipalli Coal Mine,India,1.53294876,Coal
+Moher Amlohri Coal Mine,India,1.04436675,Coal
+Lakhanpur Coal Mine,India,1.5179997,Coal
+Dipka Coal Mine,India,1.1718525,Coal
+Gevra Coal Mine,India,2.43019602,Coal
+Kusmunda Coal Mine,India,1.1502183,Coal
+Siarmal Coal Mine,India,1.8605412,Coal
+Kerandari BC,India,1.83304,Coal
+"Integrated Belpahar, Lakhanpur, Lilari Coal Mine",India,1.5167978,Coal
+Balaram Coal Mine,India,1.37311524,Coal
+Gare Pelma Sector II,India,1.3103,Coal
+Banhardih,India,1.106,Coal
+Bankui,India,1.6,Coal
+Mandakini B,India,1.31316,Coal
+Saharpur Jamarpani,India,1.048,Coal
+MHU Coal Mine,Indonesia,1.07524368,Coal
+Indexim Coalindo Coal Mine,Indonesia,1.11338577,Coal
+PTBA Coal Mines,Indonesia,8.89417848,Coal
+BIB Coal Mine,Indonesia,1.07342739,Coal
+Pasir Coal Mine,Indonesia,0.97534773,Coal
+Tutupan Coal Mine,Indonesia,1.09340658,Coal
+KPC Operation Coal Mine,Indonesia,3.0945552,Coal
+GAM Coal Mine,Indonesia,1.31552652,Coal
+Pakar North Coal Mine,Indonesia,1.0949309,Coal
+Borly Coal Mines,Kazakhstan,1.02264492,Coal
+Shubarkol Coal Mine,Kazakhstan,0.99091608,Coal
+Bogatyr Coal Mine,Kazakhstan,7.32204,Coal
+Tavan Tolgoi Coal Mine,Mongolia,16.03032948,Coal
+Zambezi Coal Mine,Mozambique,4.149156,Coal
+Chirodzi Coal Mine,Mozambique,2.928816,Coal
+Revuboe Coal Mine,Mozambique,1.38454668,Coal
+Saebyol Coal Mining Complex,North Korea,3.2282703,Coal
+Thar Coal Mine,Pakistan,1.886983,Coal
+Erkovetskiy Coal Mine,Russian Federation,1.03891788,Coal
+Stepnoy Coal Mine,Russian Federation,3.55851144,Coal
+Listvianskaya Coal Mine,Russian Federation,2.3876094,Coal
+Raspadskaya Coal Mine,Russian Federation,2.416722228,Coal
+Pereyaslovskiy Coal Mine,Russian Federation,1.634661,Coal
+Elegest Coal Mine,Russian Federation,2.281434144,Coal
+Arshanovsky Coal Mine,Russian Federation,1.708476,Coal
+Taldinsky Coal Mine,Russian Federation,2.196612,Coal
+Elga Coal Mine,Russian Federation,4.528609428,Coal
+Beisky-Zapadniy Coal Mine,Russian Federation,2.4338286,Coal
+Ulug-Khem Project,Russian Federation,2.15285004,Coal
+Sugodinsk-Ogodzhinsky Coal Mine,Russian Federation,1.81586592,Coal
+Usinsk-1 Coal Mine,Russian Federation,1.65665412,Coal
+Pervomaisky Coal Mine,Russian Federation,1.53518772,Coal
+Shurapskaya Coal Mine,Russian Federation,1.03240764,Coal
+Inaglinskaya-2 Mine,Russian Federation,1.2966,Coal
+Kolubara Mine Complex,Serbia,2.52399,Coal
+Grootegeluk Coal Mine,South Africa,6.87204672,Coal
+Greater Soutpansberg Coal Project,South Africa,2.80377372,Coal
+Boikarabelo Coal Mine,South Africa,2.4284766,Coal
+Paardekop Coal Mine,South Africa,1.6962726,Coal
+New Largo Coal Mine,South Africa,1.4277978,Coal
+Bernice-Cygnus Coal Mine,South Africa,1.07242344,Coal
+Afşin-Elbistan Coal Mine,Turkey,4.08646,Coal
+Cumberland Coal Mine,United States,1.89396768,Coal
+Hamilton County Mine No.1,United States,1.184779292,Coal
+MC #1 Coal Mine,United States,2.87756172,Coal
+Black Thunder Coal Mine,United States,1.358040033,Coal
+North Antelope Rochelle Coal Mine,United States,2.9242269,Coal
+Youngs Creek Coal Mine,United States,1.08842976,Coal
+Angren Coal Mine,Uzbekistan,2.4038,Coal
+Sengwe Colliery,Zimbabwe,1,Coal
